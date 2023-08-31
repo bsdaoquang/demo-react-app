@@ -71,6 +71,8 @@ function App() {
 		}
 	};
 
+	console.log('say hi');
+
 	return (
 		<div className='container mt-4'>
 			<div className='col col-lg-8 offset-lg-2'>
